@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vianymoz/focus-now/static/css/main.ef9ab6ab.chunk.css",
-    "main.js": "/vianymoz/focus-now/static/js/main.c9584ecc.chunk.js",
-    "main.js.map": "/vianymoz/focus-now/static/js/main.c9584ecc.chunk.js.map",
-    "runtime-main.js": "/vianymoz/focus-now/static/js/runtime-main.de7d4d30.js",
-    "runtime-main.js.map": "/vianymoz/focus-now/static/js/runtime-main.de7d4d30.js.map",
-    "static/js/2.1f8058bb.chunk.js": "/vianymoz/focus-now/static/js/2.1f8058bb.chunk.js",
-    "static/js/2.1f8058bb.chunk.js.map": "/vianymoz/focus-now/static/js/2.1f8058bb.chunk.js.map",
-    "index.html": "/vianymoz/focus-now/index.html",
-    "static/css/main.ef9ab6ab.chunk.css.map": "/vianymoz/focus-now/static/css/main.ef9ab6ab.chunk.css.map",
-    "static/js/2.1f8058bb.chunk.js.LICENSE.txt": "/vianymoz/focus-now/static/js/2.1f8058bb.chunk.js.LICENSE.txt"
+    "main.css": "/focus-now/static/css/main.ef9ab6ab.chunk.css",
+    "main.js": "/focus-now/static/js/main.c9584ecc.chunk.js",
+    "main.js.map": "/focus-now/static/js/main.c9584ecc.chunk.js.map",
+    "runtime-main.js": "/focus-now/static/js/runtime-main.0bb6f687.js",
+    "runtime-main.js.map": "/focus-now/static/js/runtime-main.0bb6f687.js.map",
+    "static/js/2.1f8058bb.chunk.js": "/focus-now/static/js/2.1f8058bb.chunk.js",
+    "static/js/2.1f8058bb.chunk.js.map": "/focus-now/static/js/2.1f8058bb.chunk.js.map",
+    "index.html": "/focus-now/index.html",
+    "static/css/main.ef9ab6ab.chunk.css.map": "/focus-now/static/css/main.ef9ab6ab.chunk.css.map",
+    "static/js/2.1f8058bb.chunk.js.LICENSE.txt": "/focus-now/static/js/2.1f8058bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de7d4d30.js",
+    "static/js/runtime-main.0bb6f687.js",
     "static/js/2.1f8058bb.chunk.js",
     "static/css/main.ef9ab6ab.chunk.css",
     "static/js/main.c9584ecc.chunk.js"
